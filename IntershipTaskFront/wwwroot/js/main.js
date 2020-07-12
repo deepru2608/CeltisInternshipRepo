@@ -1,4 +1,4 @@
-﻿// Material Design example
-$(document).ready(function () {
-    $('#dtMaterialDesignExample').DataTable();
+﻿$(document).ready(function () {
+    $('#dtBasicExample').DataTable();
+    $('.dataTables_length').addClass('bs-select');
 });

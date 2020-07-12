@@ -41,3 +41,17 @@ C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTa
 C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\_Imports.razor.g.cs
 C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Pages\_Imports.razor.g.cs
 C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.StaticWebAssets.xml
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll

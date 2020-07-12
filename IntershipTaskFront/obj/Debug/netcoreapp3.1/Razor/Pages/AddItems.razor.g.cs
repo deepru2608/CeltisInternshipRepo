@@ -57,6 +57,13 @@ using Microsoft.AspNetCore.Components.Web;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 9 "C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\Pages\_Imports.razor"
+using Syncfusion.Blazor;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/AddItems")]
     public partial class AddItems : Microsoft.AspNetCore.Components.ComponentBase
     {
