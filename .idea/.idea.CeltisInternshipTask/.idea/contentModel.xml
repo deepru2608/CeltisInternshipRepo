@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\deepa\.Rider2019.3\config\javascript\extLibs\__cdn.datatables.net_1.10.21_css_jquery.dataTables.css" t="IncludeRecursive" />
+    <e p="C:\Users\deepa\.Rider2019.3\config\javascript\extLibs\__cdn.datatables.net_1.10.21_js_jquery.dataTables.js" t="IncludeRecursive" />
+    <e p="C:\Users\deepa\.Rider2019.3\config\javascript\extLibs\http_cdn.datatables.net_1.10.21_css_jquery.dataTables.css" t="IncludeRecursive" />
+    <e p="C:\Users\deepa\.Rider2019.3\config\javascript\extLibs\http_cdn.datatables.net_1.10.21_js_jquery.dataTables.js" t="IncludeRecursive" />
+    <e p="C:\Users\deepa\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\deepa\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_CeltisInternshipTask.-1096849622.00" t="ExcludeRecursive" />
+    <e p="C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask" t="IncludeFlat">
+      <e p="CeltisInternshipTask.sln" t="IncludeFlat" />
+      <e p="IntershipTaskApi" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ItemsController.cs" t="Include" />
+          <e p="TokenController.cs" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="AppDbContext.cs" t="Include" />
+        </e>
+        <e p="IntershipTaskApi.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20200711132329_IinitialCreate20200711.cs" t="Include" />
+          <e p="20200711132329_IinitialCreate20200711.Designer.cs" t="Include" />
+          <e p="AppDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Item.cs" t="Include" />
+          <e p="UserData.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="IntershipTaskApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="IntershipTaskFront" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+        </e>
+        <e p="IntershipTaskFront.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="Item.cs" t="Include" />
+          <e p="UserData.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="IntershipTaskFront.AssemblyInfo.cs" t="Include" />
+              <e p="IntershipTaskFront.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="_Imports.razor" t="Include" />
+          <e p="AddItems.razor" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="CenterService.cs" t="Include" />
+          <e p="ICenterService.cs" t="Include" />
+          <e p="ITokenService.cs" t="Include" />
+          <e p="TokenService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="bootstrap.min.css" t="Include" />
+            <e p="datatables2.min.css" t="Include" />
+            <e p="mdb.min.css" t="Include" />
+            <e p="style.css" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="bootstrap.min.js" t="Include" />
+            <e p="datatables2.min.js" t="Include" />
+            <e p="jquery.min.js" t="Include" />
+            <e p="main.js" t="Include" />
+            <e p="mdb.min.js" t="Include" />
+            <e p="popper.min.js" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

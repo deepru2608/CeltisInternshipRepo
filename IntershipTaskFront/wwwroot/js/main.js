@@ -1,4 +1,5 @@
 ﻿$(document).ready(function () {
-    $('#dtBasicExample').DataTable();
-    $('.dataTables_length').addClass('bs-select');
+    $('#dtBasicExample').DataTable({
+        "pagingType": "first_last_numbers"
+    });
 });
