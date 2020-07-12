@@ -1,0 +1,24 @@
+﻿@using IntershipTaskFront.Pages
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="jumbotron mt-3">
+    <h2 class="text-center"><span class="border-bottom">Celtis IT Solutions Intership Task</span></h2>
+    
+    <div class="row mt-2 border-bottom">
+        <div class="col-sm-4 text-left">
+            <h4>Items</h4>
+        </div>
+        <div class="col-sm-4 offset-md-4 text-right">
+            @(await Html.RenderComponentAsync<AddItems>(RenderMode.Server))
+        </div>
+    </div>
+    <div class="row mt-2">
+        <div class="col-sm-12">
+            @(await Html.RenderComponentAsync<ShowItems>(RenderMode.Server))
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,77 @@
+﻿@page "/AddItems"
+
+
+<button class="btn btn-sm btn-deep-purple" data-toggle="modal" data-target="#elegantModalForm">Add Items</button>
+
+<!-- Modal -->
+<div class="modal fade" id="elegantModalForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <!--Content-->
+        <div class="modal-content form-elegant">
+            <!--Header-->
+            <div class="modal-header text-center">
+                <h3 class="modal-title w-100 dark-grey-text font-weight-bold my-3" id="myModalLabel">
+                    <strong>Add Item</strong>
+                </h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <!--Body-->
+            <div class="modal-body mx-4">
+                <EditForm Model="@item" OnValidSubmit="@AddNewItem">
+                    <DataAnnotationsValidator/>
+                    <div class="md-form mb-2">
+                        <input type="text" id="Title" Class="form-control validate" @bind="@item.Title"/>
+                        <label data-error="wrong" data-success="right" for="Title">Title</label>
+                        <ValidationMessage For="@(() => item.Title)"/>
+                    </div>
+
+                    <div class="md-form mb-2">
+                        <textarea id="Description" Class="md-textarea form-control validate" rows="4" @bind="@item.Description"></textarea>
+                        <label data-error="wrong" data-success="right" for="Description">Description</label>
+                        <ValidationMessage For="@(() => item.Description)"/>
+                    </div>
+
+                    <div class="md-form mb-2">
+                        <input type="text" id="UnitType" Class="form-control validate" @bind="@item.UnitType"/>
+                        <label data-error="wrong" data-success="right" for="UnitType">Unit Type</label>
+                        <ValidationMessage For="@(() => item.UnitType)"/>
+                    </div>
+
+                    <div class="md-form mb-2">
+                        <input type="text" id="Rate" Class="form-control validate" @bind="@item.Rate"/>
+                        <label data-error="wrong" data-success="right" for="Rate">Rate</label>
+                        <ValidationMessage For="@(() => item.Rate)"/>
+                    </div>
+
+                    <div class="text-center mb-3">
+                        <button type="button" class="btn blue-gradient btn-block btn-rounded z-depth-1a">
+                            <i class="fas fa-plus-circle"></i>&nbsp;Add New Item
+                        </button>
+                    </div>
+                </EditForm>
+            </div>
+        </div>
+        <!--/.Content-->
+    </div>
+</div>
+<!-- Modal -->
+
+
+@code{
+
+    public Item item { get; set; }
+
+    protected override void OnInitialized()
+    {
+        item = new Item();
+    }
+
+    private async Task AddNewItem()
+    {
+        
+    }
+
+}

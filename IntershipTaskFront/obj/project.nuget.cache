@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kb3t0zh8fJW57oWXN29Kxaxm3AuustIq+TfTBs1EW2TwWVi6QIZqeUiECuVduWHxxEASUpIz3gvJu7FlFOumBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deepa\\Desktop\\Asp Net Core\\Celtis Intership Projects\\CeltisInternshipTask\\IntershipTaskFront\\IntershipTaskFront.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deepa\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
