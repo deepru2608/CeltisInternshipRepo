@@ -1,0 +1,2 @@
+# CeltisInternshipRepo
+Internship task repository
