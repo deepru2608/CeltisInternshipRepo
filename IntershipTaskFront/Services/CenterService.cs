@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
@@ -18,13 +19,30 @@ namespace IntershipTaskFront.Services
             _tokenService = tokenService;
         }
 
+        public async Task<HttpStatusCode> CreateItems(Item item)
+        {
+            var userData = _tokenService.GetCredential();
+            var token = await _tokenService.GetToken(userData);
+            var requestMessage = new HttpRequestMessage();
+            requestMessage.Method = HttpMethod.Post;
+            requestMessage.Content = new StringContent(JsonConvert.SerializeObject(item));
+            requestMessage.Content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+            requestMessage.Headers.Authorization = new AuthenticationHeaderValue("bearer", token);
+            var response = await _httpClient.SendAsync(requestMessage);
+            if (response.IsSuccessStatusCode)
+            {
+                return response.StatusCode;
+            }
+
+            return response.StatusCode;
+        }
+
         public async Task<IEnumerable<Item>> GetItems()
         {
             var userData = _tokenService.GetCredential();
             var token = await _tokenService.GetToken(userData);
             var requestMessage = new HttpRequestMessage();
             requestMessage.Method = HttpMethod.Get;
-            requestMessage.Content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
             requestMessage.Headers.Authorization = new AuthenticationHeaderValue("bearer", token);
             var response = await _httpClient.SendAsync(requestMessage);
             IEnumerable<Item> result = new List<Item>();

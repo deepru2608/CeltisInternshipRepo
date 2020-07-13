@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deepa\\Desktop\\Asp Net Core\\Celtis Intership Projects\\CeltisInternshipTask\\IntershipTaskApi\\IntershipTaskApi.csproj": {}
+    "C:\\Users\\admin\\Desktop\\DeepanshuLearning\\NetCoreWeb\\CeltisInternshipRepo\\IntershipTaskApi\\IntershipTaskApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deepa\\Desktop\\Asp Net Core\\Celtis Intership Projects\\CeltisInternshipTask\\IntershipTaskApi\\IntershipTaskApi.csproj": {
+    "C:\\Users\\admin\\Desktop\\DeepanshuLearning\\NetCoreWeb\\CeltisInternshipRepo\\IntershipTaskApi\\IntershipTaskApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\Asp Net Core\\Celtis Intership Projects\\CeltisInternshipTask\\IntershipTaskApi\\IntershipTaskApi.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\DeepanshuLearning\\NetCoreWeb\\CeltisInternshipRepo\\IntershipTaskApi\\IntershipTaskApi.csproj",
         "projectName": "IntershipTaskApi",
-        "projectPath": "C:\\Users\\deepa\\Desktop\\Asp Net Core\\Celtis Intership Projects\\CeltisInternshipTask\\IntershipTaskApi\\IntershipTaskApi.csproj",
-        "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deepa\\Desktop\\Asp Net Core\\Celtis Intership Projects\\CeltisInternshipTask\\IntershipTaskApi\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\DeepanshuLearning\\NetCoreWeb\\CeltisInternshipRepo\\IntershipTaskApi\\IntershipTaskApi.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\DeepanshuLearning\\NetCoreWeb\\CeltisInternshipRepo\\IntershipTaskApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\deepa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/75HPhdhiDjqmNMexUe7a8g3e8DmzweROvIMAg2GvmUcWzpCRHW/api": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

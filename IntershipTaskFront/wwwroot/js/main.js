@@ -3,3 +3,8 @@
         "pagingType": "first_last_numbers"
     });
 });
+
+
+window.ShowAlert = (title, message, status) => {
+    Swal.fire(title, message, status)
+};

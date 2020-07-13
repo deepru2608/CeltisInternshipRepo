@@ -1,41 +1,41 @@
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.exe
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.deps.json
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.runtimeconfig.json
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.runtimeconfig.dev.json
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.dll
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.pdb
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.Views.dll
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.Views.pdb
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.csprojAssemblyReference.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.AssemblyInfoInputs.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.AssemblyInfo.cs
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.csproj.CoreCompileInputs.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorAssemblyInfo.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorAssemblyInfo.cs
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.TagHelpers.input.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.TagHelpers.output.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorCoreGenerate.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorTargetAssemblyInfo.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorTargetAssemblyInfo.cs
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.Views.pdb
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\staticwebassets\IntershipTaskFront.StaticWebAssets.Manifest.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\staticwebassets\IntershipTaskFront.StaticWebAssets.xml
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.dll
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.pdb
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.genruntimeconfig.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.csproj.CopyComplete
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorComponent.input.cache
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddItems.razor.g.cs
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\RazorDeclaration\IntershipTaskFront.dll
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Pages\AddItems.razor.g.cs
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\_Imports.razor.g.cs
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Pages\_Imports.razor.g.cs
-C:\Users\deepa\Desktop\Asp Net Core\Celtis Intership Projects\CeltisInternshipTask\IntershipTaskFront\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.exe
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.deps.json
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.runtimeconfig.json
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.runtimeconfig.dev.json
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.dll
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.pdb
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.Views.dll
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\IntershipTaskFront.Views.pdb
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.AssemblyInfo.cs
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorComponent.input.cache
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddItems.razor.g.cs
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\_Imports.razor.g.cs
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\RazorDeclaration\IntershipTaskFront.dll
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.TagHelpers.input.cache
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.TagHelpers.output.cache
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorCoreGenerate.cache
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Pages\AddItems.razor.g.cs
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Pages\_Imports.razor.g.cs
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.Views.pdb
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.csproj.CopyComplete
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\staticwebassets\IntershipTaskFront.StaticWebAssets.Manifest.cache
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\staticwebassets\IntershipTaskFront.StaticWebAssets.xml
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.dll
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.pdb
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.genruntimeconfig.cache
+C:\Users\admin\Desktop\DeepanshuLearning\NetCoreWeb\CeltisInternshipRepo\IntershipTaskFront\obj\Debug\netcoreapp3.1\IntershipTaskFront.csprojAssemblyReference.cache

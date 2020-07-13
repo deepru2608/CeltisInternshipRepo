@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iOtjaXlsQjTlnrY3TyJ3/VI7MwBF0LAlWFSjc4Yfz21YdLKxIuaHc3vfUu2y6AnFwaIklZBG7AwbRMtoIpzamA==",
+  "dgSpecHash": "SayA3uWbUt8CDVALhBCu0gMwpKY7SFxzmG0JbVCfwRj/oX8GD92EHpLAhAvQYvQshRGCqPve3lKK4LYWBKIjEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deepa\\Desktop\\Asp Net Core\\Celtis Intership Projects\\CeltisInternshipTask\\IntershipTaskFront\\IntershipTaskFront.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\DeepanshuLearning\\NetCoreWeb\\CeltisInternshipRepo\\IntershipTaskFront\\IntershipTaskFront.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\deepa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

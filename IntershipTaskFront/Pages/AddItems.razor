@@ -20,7 +20,7 @@
             </div>
             <!--Body-->
             <div class="modal-body mx-4">
-                <EditForm Model="@item" OnValidSubmit="@AddNewItem">
+                <EditForm Model="@item">
                     <DataAnnotationsValidator/>
                     <div class="md-form mb-2">
                         <input type="text" id="Title" Class="form-control validate" @bind="@item.Title"/>
@@ -47,7 +47,7 @@
                     </div>
 
                     <div class="text-center mb-3">
-                        <button type="button" class="btn blue-gradient btn-block btn-rounded z-depth-1a">
+                        <button type="button" class="btn blue-gradient btn-block btn-rounded z-depth-1a" @onclick="AddNewItem">
                             <i class="fas fa-plus-circle"></i>&nbsp;Add New Item
                         </button>
                     </div>
@@ -73,7 +73,14 @@
     {
         if (item != null)
         {
-            
+            item.UniqueId = Guid.NewGuid().ToString().GetHashCode().ToString("x");
+            var result = await centerService.CreateItems(item);
+            if (result == System.Net.HttpStatusCode.Created)
+            {
+                await jS.InvokeVoidAsync("ShowAlert", "Well Done!", "Items has been added successfully.", "success");
+                await Task.Delay(TimeSpan.FromSeconds(2));
+                navigationManager.NavigateTo("/", forceLoad: true);
+            }
         }
     }
 
